@@ -1,5 +1,3 @@
-# FB-RIPPER
-
 <h1 align="center">Hi this is FB RIPPER TOOL</h1>
 <h3 align="center">Latest Facebook Cloner</h3>
 
@@ -40,5 +38,4 @@ python RIP.py
 
 
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_lzrr9sns3m1r2geqjo1_500.gif">
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*JkbMdFbpla9XTLAlgNawdg.gif">
+<img align="left" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_lzrr9sns3m1r2geqjo1_500.gif"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*JkbMdFbpla9XTLAlgNawdg.gif">
