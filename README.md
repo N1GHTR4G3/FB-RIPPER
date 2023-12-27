@@ -20,6 +20,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1ghtr4g3&" alt="n1ghtr4g3" /></p>
 
 cd && rm -rf FB-RIPPER 
+
 pkg upgrade ; pkg update
 pkg ins pkg tall python
 pkg install mpv ; pkg install play-audio
@@ -29,4 +30,5 @@ cd FB-RIPPER
 git pull
 python RIP.py
 
-<img align="left" alt="Coding" width="300" src="https://64.media.tumblr.com/tumblr_lzrr9sns3m1r2geqjo1_500.gif"><img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*JkbMdFbpla9XTLAlgNawdg.gif">
+<img align="left" alt="Coding" width="500" src="https://64.media.tumblr.com/tumblr_lzrr9sns3m1r2geqjo1_500.gif">
+<img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*JkbMdFbpla9XTLAlgNawdg.gif">
